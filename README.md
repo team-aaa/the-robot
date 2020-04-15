@@ -1,3 +1,3 @@
 The Robot
 
-This robot does nothing!
+This robot does nothing! This is a lazy Robot
